@@ -43,3 +43,15 @@ python mirror_entanglement.py
 2️⃣ Install required packages:
 ```bash
 pip install matplotlib numpy
+
+## How to run it locally
+
+```bash
+# Clone the repo
+git clone https://github.com/vicms1/MeowMirrorEntanglement.git
+
+# Go into the folder
+cd MeowMirrorEntanglement
+
+# Run the Python script
+python mirror_entanglement.py
