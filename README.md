@@ -25,6 +25,18 @@ In simple terms: when you "measure" one particle 👉 the other one instantly re
 
 ---
 
+## How to run it locally
+
+```bash
+# Clone the repo
+git clone https://github.com/vicms1/MeowMirrorEntanglement.git
+
+# Go into the folder
+cd MeowMirrorEntanglement
+
+# Run the Python script
+python mirror_entanglement.py
+
 ## 🚀 How to Run
 
 1️⃣ Install Python 3  
